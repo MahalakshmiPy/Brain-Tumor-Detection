@@ -1,6 +1,4 @@
-# Brain-Tumor-Detection
-
-<h1 align="center">Project Title Brain Tumor Detection Integrated with Deep Learning</h1>
+<h1 align="center">Brain Tumor Detection Integrated with Deep Learning</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
